@@ -1,0 +1,10 @@
+#forward, #play, #pause {
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+.bob {
+    width: 200px;
+    height: 200px;
+}
